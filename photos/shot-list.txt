@@ -1,0 +1,51 @@
+# Shot list — every file in the pack
+# file | dimensions (WxH) | source | description
+
+brand/highlight-cover-reviews-150px.jpg | 150x150 | Reviews highlight cover thumbnail (17895173736464373) | reference only, square IG cover thumbnail
+brand/logo-from-story-profile-card-291px.jpg | 291x291 | crop of the logo tile inside story highlight slide 12 (profile card shared by @x.megan.x.twist.x) | Largest logo version found (shows underline rule). Crop of a story — NOT an original file
+brand/logo-profile-pic-150px.jpg | 150x150 | profile picture (logged-out og/profile data; HD avatar endpoint rate-limited) | Logo: R|L RACHAEL • LOUISE Bespoke Massage, rose-gold serif on deep teal-navy
+brand/price-list-post.jpg | 1184x1248 | https://www.instagram.com/p/DeedWjKNgmS/ | Price list graphic (14 Oct 2026)
+brand/pricing-per-day-post.jpg | 1572x2096 | https://www.instagram.com/p/DbsMEgttcqL/ | "What your monthly Sports Massage costs you per day" graphic (6 Aug 2026)
+photos/action-01-head-neck-massage-tattooed-client.jpg | 3024x4032 | https://www.instagram.com/p/DdKGmZPhk0T/ | Head/neck massage on tattooed client (@reecerhenry), wide angle, no text
+photos/action-02-back-erythema-assisted-stretch-kitchen.jpg | 3024x4032 | https://www.instagram.com/p/DetxHYcNHYQ/ | Client face-down, hands behind back, post-massage erythema; in-home kitchen. No text
+photos/action-03-upper-back-erythema-landscape.jpg | 4032x3024 | https://www.instagram.com/p/Del_JHDtJtz/ | Upper back with erythema after deep tissue (@jaymoore66). LANDSCAPE, no text
+photos/action-04-deep-tissue-assisted-stretch-boxer.jpg | 3024x4032 | https://www.instagram.com/p/Del62HVNMl6/ | Boxer Troy Williamson face-down, back/neck/shoulders + assisted stretch; small text overlay
+photos/action-05-in-home-treatment-tattooed-client.jpg | 1088x1344 | https://www.instagram.com/p/DekeApftNCH/ | "Personalised massage performed in the warmth & comfort of your own home" overlay; tattooed client on couch in modern kitchen-diner
+photos/action-06-garden-room-massage-setup.jpg | 1088x1456 | https://www.instagram.com/p/DeKsGPUNh8n/ | Two-photo collage: garden room exterior + massage table set up inside (client venue)
+photos/action-07-living-room-setup-autumn-promo.jpg | 1088x1344 | https://www.instagram.com/p/DetK8pktcSV/ | Massage table set up in cosy living room by fireplace; "Autumn is here / November appointments now available" overlay
+photos/action-08-shoulder-massage-boxer-reel-cover.jpg | 1179x2096 | https://www.instagram.com/p/Dc9VrymRjYW/ | Reel cover frame: hands working shoulders of boxer @benmarksby, no text (reel = video; cover is 9:16 as posted)
+photos/action-09-back-massage-dm-to-book-reel-cover.jpg | 1179x2096 | https://www.instagram.com/p/DesC6KDt6bY/ | Reel cover frame: forearm/back massage on female client, "R L Rachael Louise Bespoke Massage / DM to Book" overlay
+photos/action-10-sports-massage-wax-product.jpg | 3024x4032 | https://www.instagram.com/p/Deh2KiptDLV/ | Hand holding Sports Massage Wax tub ("New product alert"); product shot
+photos/owner-01-portrait-treatment-room.jpg | 1088x1344 | https://www.instagram.com/p/DepaMjcN3eD/ | Rachael smiling, hands on client's leg; dark spa-style room. Text overlays top & bottom, dark border. LIKELY AI-ENHANCED/GENERATED studio scene — confirm with Rachael
+photos/owner-02-selfie-with-client-troy-williamson.jpg | 1184x1568 | https://www.instagram.com/p/Del9lR-NHwQ/ | Real photo collage: Rachael selfies with boxer Troy Williamson + 2 treatment shots; overlay text centre
+photos/owner-03-alt-portrait-2x2-grid.jpg | 1088x1344 | https://www.instagram.com/p/Dei41lDtQDf/ | "Reintroduction | The face behind" post: same portrait as owner-01 posted as 2x2 repeat grid (no text). Clean portrait available by taking one quadrant (~414x512) — low-res
+reviews/review-01.jpg | 1179x2096 | https://www.instagram.com/stories/highlights/17895173736464373/ (slide 1) | Reviews highlight slide — see reviews/REVIEWS.md
+reviews/review-02.jpg | 1179x2096 | https://www.instagram.com/stories/highlights/17895173736464373/ (slide 2) | Reviews highlight slide — see reviews/REVIEWS.md
+reviews/review-03.jpg | 1179x2096 | https://www.instagram.com/stories/highlights/17895173736464373/ (slide 3) | Reviews highlight slide — see reviews/REVIEWS.md
+reviews/review-04.jpg | 1179x2096 | https://www.instagram.com/stories/highlights/17895173736464373/ (slide 4) | Reviews highlight slide — see reviews/REVIEWS.md
+reviews/review-05.jpg | 1179x2096 | https://www.instagram.com/stories/highlights/17895173736464373/ (slide 5) | Reviews highlight slide — see reviews/REVIEWS.md
+reviews/review-06.jpg | 1179x2096 | https://www.instagram.com/stories/highlights/17895173736464373/ (slide 6) | Reviews highlight slide — see reviews/REVIEWS.md
+reviews/review-07.jpg | 1179x2096 | https://www.instagram.com/stories/highlights/17895173736464373/ (slide 7) | Reviews highlight slide — see reviews/REVIEWS.md
+reviews/review-08.jpg | 1179x2096 | https://www.instagram.com/stories/highlights/17895173736464373/ (slide 8) | Reviews highlight slide — see reviews/REVIEWS.md
+reviews/review-09.jpg | 1179x2096 | https://www.instagram.com/stories/highlights/17895173736464373/ (slide 9) | Reviews highlight slide — see reviews/REVIEWS.md
+reviews/review-10.jpg | 1179x2096 | https://www.instagram.com/stories/highlights/17895173736464373/ (slide 10) | Reviews highlight slide — see reviews/REVIEWS.md
+reviews/review-11.jpg | 1179x2096 | https://www.instagram.com/stories/highlights/17895173736464373/ (slide 11) | Reviews highlight slide — see reviews/REVIEWS.md
+reviews/review-12.jpg | 1179x2096 | https://www.instagram.com/stories/highlights/17895173736464373/ (slide 12) | Reviews highlight slide — see reviews/REVIEWS.md
+reviews/review-13.jpg | 720x1280 | https://www.instagram.com/stories/highlights/17895173736464373/ (slide 13) | Reviews highlight slide — see reviews/REVIEWS.md
+reviews/review-14.jpg | 1179x2096 | https://www.instagram.com/stories/highlights/17895173736464373/ (slide 14) | Reviews highlight slide — see reviews/REVIEWS.md
+reviews/review-15.jpg | 1179x2096 | https://www.instagram.com/stories/highlights/17895173736464373/ (slide 15) | Reviews highlight slide — see reviews/REVIEWS.md
+reviews/review-16.jpg | 1179x2096 | https://www.instagram.com/stories/highlights/17895173736464373/ (slide 16) | Reviews highlight slide — see reviews/REVIEWS.md
+reviews/review-17.jpg | 1179x2096 | https://www.instagram.com/stories/highlights/17895173736464373/ (slide 17) | Reviews highlight slide — see reviews/REVIEWS.md
+reviews/review-18.jpg | 1179x2096 | https://www.instagram.com/stories/highlights/17895173736464373/ (slide 18) | Reviews highlight slide — see reviews/REVIEWS.md
+reviews/review-19.jpg | 720x1280 | https://www.instagram.com/stories/highlights/17895173736464373/ (slide 19) | Reviews highlight slide — see reviews/REVIEWS.md
+reviews/review-20.jpg | 1179x2096 | https://www.instagram.com/stories/highlights/17895173736464373/ (slide 20) | Reviews highlight slide — see reviews/REVIEWS.md
+reviews/review-21.jpg | 720x1280 | https://www.instagram.com/stories/highlights/17895173736464373/ (slide 21) | Reviews highlight slide — see reviews/REVIEWS.md
+reviews/review-22.jpg | 720x1280 | https://www.instagram.com/stories/highlights/17895173736464373/ (slide 22) | Reviews highlight slide — see reviews/REVIEWS.md
+reviews/review-23.jpg | 720x1280 | https://www.instagram.com/stories/highlights/17895173736464373/ (slide 23) | Reviews highlight slide — see reviews/REVIEWS.md
+reviews/review-24-post-Det0fZBtP5G.jpg | 3024x4032 | https://www.instagram.com/p/Det0fZBtP5G/ | review graphic posted on grid
+reviews/review-25-post-DerirOntXzn.jpg | 1184x1568 | https://www.instagram.com/p/DerirOntXzn/ | review graphic posted on grid
+reviews/videos/review-13.mp4 | 720x1280 video | Reviews highlight 17895173736464373 | original story video
+reviews/videos/review-19.mp4 | 720x1280 video | Reviews highlight 17895173736464373 | original story video
+reviews/videos/review-21.mp4 | 720x1280 video | Reviews highlight 17895173736464373 | original story video
+reviews/videos/review-22.mp4 | 720x1280 video | Reviews highlight 17895173736464373 | original story video
+reviews/videos/review-23.mp4 | 720x1280 video | Reviews highlight 17895173736464373 | original story video

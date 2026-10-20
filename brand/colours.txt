@@ -1,0 +1,14 @@
+Brand colours — sampled from the logo (profile pic + story profile-card crop) and post graphics
+(pixel sampling with Pillow; logo source is only 150-291px so values are ±a few points)
+
+Deep teal-navy (logo background, centre)   #103040   rgb(16, 48, 64)
+Deep teal-navy (logo background, average)  #0E2D3B   rgb(14, 45, 59)
+Darkest navy (logo edge/vignette)          #042433   rgb(4, 36, 51)
+Rose-gold / blush (logo lettering, avg)    #E6BDA8   rgb(230, 189, 168)
+Rose-gold highlight (brightest lettering)  #F8D2C1   rgb(248, 210, 193)
+Charcoal slate (post borders, e.g. DepaMjcN3eD) #232732 rgb(35, 39, 50)
+Accent: bright blue heart emoji 💙 used everywhere in bio/captions (~#1E6FE8 / rgb(30,111,232)) — emoji colour, guess
+Neutral: white #FFFFFF and black text boxes (Instagram story-text style)
+
+Suggested site palette: navy #0E2D3B background/hero, rose-gold #E6BDA8 headings/buttons, #F8D2C1 hover,
+off-white #F7F3F0 sections, charcoal #232732 body text, blue #1E6FE8 sparingly (heart accents).

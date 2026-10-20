@@ -1,0 +1,12 @@
+FONTS — ALL BEST GUESSES (no font files/names published by the client)
+
+Logo "R | L" + "RACHAEL • LOUISE": classic high-contrast Roman serif, all caps, wide letter-spacing.
+  Guess: Cormorant Garamond (SemiBold) / Cinzel-like proportions; close free matches: Cormorant Garamond, Playfair Display SC, Cinzel.
+  "R | L" monogram separated by a thin vertical rule.
+Logo "Bespoke Massage" tagline: same serif family, small, upper/lower case, under a thin horizontal rule.
+  Guess: Cormorant Garamond Regular / EB Garamond.
+"Client Reviews" script (story review-02) and "time to RELAX" (review-13): Canva-style handwritten script + thin sans caps.
+  Guess: script like "Allura"/"Great Vibes"; caps like "Montserrat Light"/"Josefin Sans".
+Captions/overlays on posts & reels: Instagram's built-in story text (white-on-black boxes) = Instagram "Modern"/Classic sans
+  (Instagram Sans / SF Pro-like). Not a brand font.
+Recommendation for the site: headings Cormorant Garamond (600, caps, letter-spacing 0.08em); body Montserrat or Lato.
