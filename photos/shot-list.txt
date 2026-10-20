@@ -49,3 +49,4 @@ reviews/videos/review-19.mp4 | 720x1280 video | Reviews highlight 17895173736464
 reviews/videos/review-21.mp4 | 720x1280 video | Reviews highlight 17895173736464373 | original story video
 reviews/videos/review-22.mp4 | 720x1280 video | Reviews highlight 17895173736464373 | original story video
 reviews/videos/review-23.mp4 | 720x1280 video | Reviews highlight 17895173736464373 | original story video
+videos/rachael-reel.mp4 | 720x1280 video, 26.3s, 3.5 MB (3,496,726 bytes), H.264 24fps, NO audio track (reel posted silent) | https://www.instagram.com/reel/Dc9VrymRjYW/ (6 Sep 2026, "Pleasure meeting boxer @benmarksby") | Original Instagram progressive mp4, saved as-is (not re-encoded). Back/shoulder/neck massage on boxer @benmarksby, overhead view, bright living room. Text overlay: NONE (checked frames every 1s)

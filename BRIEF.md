@@ -78,4 +78,5 @@ Pull-quotes: "Walked out feeling like a different man 💪" · "By far the best 
 - `photos/` — owner-01..03, action-01..10, shot-list.txt (every file with source + dimensions)
 - `reviews/` — review-01..23 (highlight slides, in order), review-24/25 (grid posts), videos/ (5 original story videos), REVIEWS.md
 - `comparisons/` — README only (n/a)
+- `videos/rachael-reel.mp4` — hero/background reel: Instagram reel **Dc9VrymRjYW** (https://www.instagram.com/reel/Dc9VrymRjYW/, 6 Sep 2026, boxer @benmarksby). 26.3s · 720x1280 (9:16) · 3.5 MB · H.264 24fps · **no audio track** (posted silent). Original IG mp4 saved as-is, not re-encoded. **On-screen text: none** — overhead shot of Rachael working back, shoulders & neck in a bright living room. (A 1080x1920 version exists on IG only as VP9 DASH, which is less widely supported in browsers, so the H.264 720p original was used.)
 - `source/instagram-captions-latest-36-posts.txt` — full captions of the 36 newest posts (copy for About/Services text)
